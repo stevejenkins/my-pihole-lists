@@ -4,5 +4,3 @@ captive.roku.com
 channels.roku.com
 image.roku.com
 www.msftncsi.com
-www.stevejenkins.com
-www.google.com
