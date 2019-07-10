@@ -4,3 +4,4 @@ captive.roku.com
 channels.roku.com
 image.roku.com
 www.msftncsi.com
+www.google.com
