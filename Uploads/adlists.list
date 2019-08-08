@@ -1,0 +1,39 @@
+# The below list amalgamates several lists we used previously.
+# See `https://github.com/StevenBlack/hosts` for details
+##StevenBlack's list
+
+##MalwareDomains
+
+##Cameleon
+
+##Zeustracker
+
+##Disconnect.me Tracking
+
+##Disconnect.me Ads
+
+##Hosts-file.net
+
+##Suspicious
+
+##Advertising
+
+##Tracking & Telemetry
+
+##Malicious
+
+##Blocklist.site
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://mirror1.malwaredomains.com/files/justdomains
+http://sysctl.org/cameleon/hosts
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://hosts-file.net/ad_servers.txt
+https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
+https://blocklist.site/app/dl/ads
+https://blocklist.site/app/dl/malware
+https://blocklist.site/app/dl/phishing
+https://blocklist.site/app/dl/ransomware
+https://hosts-file.net/grm.txt
+https://github.com/mmotti/pihole-regex/blob/master/regex.list
